@@ -1,0 +1,31 @@
+{
+  "type": "OpenApiConnection",
+  "inputs": {
+    "parameters": {
+      "recordId": "3372ba4a-a688-40df-a1f6-13e947b3b6af",
+      "item/requestv2/additionalContext": "@variables('ThreadText')",
+      "item/source": {
+        "consumptionSource": "PowerAutomate",
+        "partnerSource": "AIBuilder",
+        "consumptionSourceVersion": "Flow",
+        "partnerSourceVersion": "0038e850-f2e0-4490-ba0d-f7542ec42f8f"
+      }
+    },
+    "host": {
+      "apiId": "/providers/Microsoft.PowerApps/apis/shared_commondataserviceforapps",
+      "connection": "shared_commondataserviceforapps",
+      "operationId": "aibuilderpredict_customprompt"
+    }
+  },
+  "metadata": {
+    "flowSystemMetadata": {
+      "portalOperationId": "aibuilderpredict_customprompt",
+      "portalOperationGroup": "aibuilder",
+      "portalOperationApiDisplayNameOverride": "AI Builder",
+      "portalOperationIconOverride": "https://content.powerapps.com/resource/makerx/static/pauto/images/designeroperations/aibuilderIcon2026.8e878397.png",
+      "portalOperationBrandColorOverride": "#0A76C4",
+      "portalOperationApiTierOverride": "Standard"
+    },
+    "operationMetadataId": "34c1a466-ce55-4c8c-b6cf-16f5f0901a5d"
+  }
+}
