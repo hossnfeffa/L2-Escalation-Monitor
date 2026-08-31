@@ -22,7 +22,7 @@ This workflow automates the tracking process by:
 L2-Escalation-Monitor/
 ├── docs/                                    # Workflow diagrams & process flowcharts
 │   └── FlowChart.pdf
-├── prompts/                                 # AI Builder / Azure OpenAI prompt templates
+├── prompts/                                 # AI Builder / Azure OpenAI prompt templates (redacted)
 │   └── Analyze Ticket Ownership AI Prompt
 ├── solutions/                               # Power Automate solution export package (.zip)
 │   └── L2EscalationMonitor_redacted.zip
