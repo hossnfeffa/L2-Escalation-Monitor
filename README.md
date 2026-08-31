@@ -25,5 +25,5 @@ L2-Escalation-Monitor/
 ├── prompts/                                 # AI Builder / Azure OpenAI prompt templates
 │   └── Analyze Ticket Ownership AI Prompt
 ├── solutions/                               # Power Automate solution export package (.zip)
-│   └── L2EscalationMonitor_20260831195903.zip
+│   └── L2EscalationMonitor_redacted.zip
 └── README.md                                # Project documentation
